@@ -1,0 +1,5 @@
+hi	hello
+how are you?	i am fine
+what is your name?	my name is chatbot
+bye	see you later
+thank you	you are welcome
