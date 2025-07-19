@@ -1,4 +1,4 @@
-# nlp Chatbot (No TorchText)
+# Nlp Chatbot (No TorchText)
 
 A simple, offline-capable chatbot built with Python and PyTorch, without using TorchText. This project demonstrates training and inference of a Seq2Seq-based chatbot with minimal dependencies.
 
